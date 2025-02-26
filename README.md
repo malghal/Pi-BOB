@@ -12,3 +12,6 @@ Code used to fit the GP model and extracting the predictions gradient
 
 3 - Varying GP Model Development Cross Validation:
 The codes for the different GP model developments used in the comparison between different GP models.
+
+
+DOI: https://doi.org/10.5281/zenodo.14933992 
